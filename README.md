@@ -1,3 +1,2 @@
 # LearnGit
-This is Chinmay. 
-Chinmay.
+This is Yao-Lin.
